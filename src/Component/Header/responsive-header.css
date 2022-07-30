@@ -1,0 +1,123 @@
+@media screen and (max-width:1440px){
+    
+   .navbar{
+        width: 80%;
+    }
+}
+
+/* 1200pxdan kichik */
+@media screen and (max-width:1200px){
+    
+     .navbar{
+        width: 83%;
+    }
+
+}
+
+
+
+
+
+/* 992pxdan kichik */
+@media screen and (max-width:992px){
+   .navbar{
+        width: 85%;
+        display: block;
+        text-align: center;
+    }
+   .navbar img{
+        margin: auto;
+        
+    }
+    .navbar ul{
+       
+        padding: 0;
+        
+    }
+   .navbar ul li{
+        margin-right: 5px;
+        text-align: center;
+        width: 15%;
+    }
+    .navbar{
+        width: 100%;
+    }
+    .asosiy h5{
+        padding-top: 100px;
+    }
+    .asosiy button{
+        margin-bottom: 130px;
+    }
+
+
+
+
+
+}
+
+
+
+
+/* 786pxdan kichik */
+@media screen and (max-width:768px){
+    .navbar ul{
+        width: 100%;
+        margin: 5px 0 0 0;
+        padding: 0;
+        
+}
+.navbar{
+    width: 100%;
+}
+.asosiy h5{
+    padding-top: 80px;
+}
+.asosiy p{
+    width: 80%;
+    margin: auto;
+ }
+ .asosiy button{
+    margin-bottom: 100px;
+}
+
+
+
+    
+}
+
+
+
+
+/* 576pxdan kichik */
+@media screen and (max-width:576px){
+    
+    .navbar ul{
+        width: 100%;
+        margin: 5px 0 0 0;
+        flex-direction: column;
+        
+}.navbar ul li a{
+    font-size: 20px;
+}
+.navbar ul li {
+    width: 100%;
+}
+.asosiy h5{
+    padding-top: 50px;
+}
+.asosiy p{
+   width: 85%;
+   margin: auto;
+}
+.asosiy button{
+    margin-bottom: 80px;
+}
+
+
+}
+
+
+/* 320pxdan kichik */
+@media screen and (max-width:320px){
+    
+}

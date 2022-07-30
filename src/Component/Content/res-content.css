@@ -1,0 +1,134 @@
+@media screen and (max-width:1440px){
+    
+}
+
+/* 1200pxdan kichik */
+@media screen and (max-width:1200px){
+    .toliq .price {
+        margin-top: 85px;
+    }
+    .toliq .blok h3{padding-top: 110px;}
+    
+}
+
+
+
+
+
+/* 992pxdan kichik */
+@media screen and (max-width:992px){
+    .toliq .price {
+        margin-top: 60px;
+    }
+    .toliq button{
+        margin-top: 80px;
+    }
+    .toliq .blok h3{padding-top: 90px;}
+    .toliq .blok .sxema .sxema-left{
+        width: 80%;
+        margin: auto;
+    }
+    .toliq .blok .sxema .sxema-left #blk{
+        width: 60%;
+    }
+    .toliq .blok .sxema .sxema-right{
+        width: 80%;
+        margin: auto;
+    }
+    .toliq #uzun{
+        margin-bottom: 70px;
+    }
+}
+
+
+
+
+/* 786pxdan kichik */
+@media screen and (max-width:768px){
+    .toliq .price {
+        margin-top: 40px;
+        flex-direction: column;
+    }
+    .toliq button{
+        margin-top: 60px;
+    }
+    .toliq .blok h3{padding-top: 60px;}
+    .toliq .blok .sxema .sxema-left{
+        width: 80%;
+        margin: auto;
+    }
+    .toliq .blok .sxema .sxema-right{
+        width: 80%;
+        margin: auto;
+    }
+    .toliq .blok .sxema .sxema-left #blk{
+        width: 60%;
+    }
+    .toliq .blok .sxema .sxema-left ul{
+        width: 35%;
+    }
+    .toliq .blok .sxema{
+        margin-bottom: 55px;
+    }
+    .toliq #uzun{
+        margin-bottom: 50px;
+    }
+    
+    .toliq .blok .heart{
+        flex-direction: column;
+    }
+}
+
+
+
+
+
+
+/* 576pxdan kichik */
+@media screen and (max-width:576px){
+    
+    .toliq button{
+        margin-top: 40px;
+    }
+    .toliq .blok h3{padding-top: 40px;}
+    .toliq .blok .sxema .sxema-right{
+        width: 90%;
+        margin: auto;
+    }
+    .toliq .blok .sxema .sxema-left{
+        width: 90%;
+        margin: auto;
+    }
+    .toliq .blok .sxema .sxema-left #blk{
+        width: 60%;
+    }
+    .toliq .blok .sxema .sxema-left ul{
+        width: 35%;
+    }
+    .toliq .blok .sxema{
+        margin-bottom: 40px;
+    }
+    .toliq #uzun{
+        margin-bottom: 40px;
+    }
+    .toliq .blok .sxema .sxema-right h1{
+        width: 100%;
+        font-size: 25px;
+    }
+    .toliq .blok .sxema .sxema-right p{
+        width: 90%;
+        margin: auto;
+    }
+    .toliq .blok .sxema .sxema-left ul li img{
+        width: 100%;
+    }
+}
+
+
+
+
+
+/* 320pxdan kichik */
+@media screen and (max-width:320px){
+    
+}

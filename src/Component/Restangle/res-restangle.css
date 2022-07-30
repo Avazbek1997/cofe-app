@@ -1,0 +1,86 @@
+@media screen and (max-width:1440px){
+    
+}
+
+/* 1200pxdan kichik */
+@media screen and (max-width:1200px){
+    
+}
+
+
+
+
+
+/* 992pxdan kichik */
+@media screen and (max-width:992px){
+    .restangle{
+        margin-top: 80px;
+    }
+}
+
+
+
+
+/* 786pxdan kichik */
+@media screen and (max-width:768px){
+    .restangle{
+        margin-top: 60px;
+    }
+    .restangle h3{
+        padding-top: 50px;
+     }
+     .restangle input{
+        margin: auto;
+        margin-bottom: 30px;
+        margin-top: 40px;
+        height: 28px;
+        width: 46%;
+    }
+    .restangle button{
+        margin: auto;
+        margin-bottom: 30px;
+        margin-top: 40px;
+        margin-left:10px;
+        height: 28px;
+        width: 20%;
+    }
+}
+
+
+
+
+
+
+/* 576pxdan kichik */
+@media screen and (max-width:576px){
+    .restangle{
+        margin-top: 40px;
+    }
+    .restangle h3{
+       padding-top: 40px;
+    }
+    .restangle input{
+        margin: auto;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        height: 25px;
+        width: 45%;
+    }
+    .restangle button{
+        margin: auto;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        height: 25px;
+        margin-left:10px;
+        width: 20%;
+    }
+}
+
+
+
+
+
+/* 320pxdan kichik */
+@media screen and (max-width:320px){
+    
+}
